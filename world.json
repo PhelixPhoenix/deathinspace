@@ -1,0 +1,33 @@
+{
+  "name": "death-in-space",
+  "title": "Death In Space",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Alpha-Journals",
+      "type": "JournalEntry",
+      "name": "alpha-journals",
+      "path": "packs/alpha-journals.db",
+      "system": "deathinspace",
+      "package": "world",
+      "entity": "JournalEntry",
+      "private": false
+    }
+  ],
+  "system": "deathinspace",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "clothing_deck.PNG",
+  "coreVersion": "9.266",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.0.1"
+}
