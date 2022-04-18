@@ -27,3 +27,5 @@
 {"name":"Electronics","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"x9R09BoTJZgmESMS"}
 {"name":"Hub Modules - General","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"yTyyN7eiqwWC2ptS"}
 {"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":null,"sorting":"a","sort":100000,"flags":{}}
+{"name":"Docking Bay","type":"JournalEntry","parent":"AsurzCrw05dbRQ0P","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EzBNatNQDBfsbxKm"}
+{"name":"To The Void (TTO)","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"C44UxMQMLMe53Nx7"}
