@@ -3,9 +3,11 @@
 {"_id":"AsurzCrw05dbRQ0P","name":"The Ring","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":0,"color":"#d0ae06","flags":{}}
 {"_id":"B04P3iC43y5Svit7","name":"TheRing","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#d0ae06","flags":{}}
 {"name":"Personal Trinkets","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"BZl0GobP5YvCLGnd"}
+{"name":"To The Void (TTO)","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"C44UxMQMLMe53Nx7"}
 {"name":"Randos","type":"Actor","parent":"JysZW9UZRhR8AaDj","sorting":"a","sort":0,"color":null,"flags":{},"_id":"CQ8XvPlecaY5cfKl"}
 {"name":"Computer Center","type":"JournalEntry","parent":"AsurzCrw05dbRQ0P","sorting":"a","sort":0,"color":null,"flags":{},"_id":"CkeWtQoynvVDPYU6"}
 {"name":"ThePassell","type":"Actor","parent":"JysZW9UZRhR8AaDj","sorting":"a","sort":0,"color":null,"flags":{},"_id":"E1TF7MjBvMdltuBc"}
+{"name":"Docking Bay","type":"JournalEntry","parent":"AsurzCrw05dbRQ0P","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EzBNatNQDBfsbxKm"}
 {"name":"Frames","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"Grca495sSOsuJlZE"}
 {"name":"Origin Benefits","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"HS8uKGXGGfrZR6Pq"}
 {"name":"Engine Room","type":"JournalEntry","parent":"AsurzCrw05dbRQ0P","sorting":"a","sort":0,"color":null,"flags":{},"_id":"IvTCVhhKuwGoJSuP"}
@@ -27,5 +29,3 @@
 {"name":"Electronics","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"x9R09BoTJZgmESMS"}
 {"name":"Hub Modules - General","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"yTyyN7eiqwWC2ptS"}
 {"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":null,"sorting":"a","sort":100000,"flags":{}}
-{"name":"Docking Bay","type":"JournalEntry","parent":"AsurzCrw05dbRQ0P","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EzBNatNQDBfsbxKm"}
-{"name":"To The Void (TTO)","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"C44UxMQMLMe53Nx7"}
