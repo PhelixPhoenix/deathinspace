@@ -30,3 +30,4 @@
 {"name":"Hub Modules - General","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"yTyyN7eiqwWC2ptS"}
 {"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":null,"sorting":"a","sort":100000,"flags":{}}
 {"_id":"ngRxhE55m07pfJvk","name":"Referee Journal","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#8a0094","flags":{}}
+{"name":"Sessions","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#40e746","flags":{},"_id":"ZoLkJpSRmHtofj5S"}
