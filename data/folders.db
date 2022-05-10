@@ -17,11 +17,12 @@
 {"name":"Weapons","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"XMpX84hR8mPawZnU"}
 {"name":"EngineRoom","type":"RollTable","parent":"opcKl5M7CdCfiNfR","sorting":"a","sort":0,"color":"#d0ae06","flags":{},"_id":"YZv61vCS0tAhv182"}
 {"name":"Armor","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"ZTzIdpvllnb4E67z"}
+{"name":"Sessions","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#40e746","flags":{},"_id":"ZoLkJpSRmHtofj5S"}
 {"_id":"ao0ljE0O0vXqpIlI","name":"Parliment","type":"Actor","parent":"JysZW9UZRhR8AaDj","sorting":"a","sort":100000,"color":"","flags":{}}
 {"name":"Power Systems","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"kcSsuSPXkM8Wy7oU"}
 {"name":"Cosmic Mutations","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"krzaTeDvtqqEcmuP"}
 {"name":"Hub Modules - Tech","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"mLGhJee5TGHBFhlF"}
-{"name":"GM Journal","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#8a0094","flags":{},"_id":"ngRxhE55m07pfJvk"}
+{"_id":"ngRxhE55m07pfJvk","name":"Referee Journal","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#8a0094","flags":{}}
 {"_id":"opcKl5M7CdCfiNfR","name":"TheRing","type":"RollTable","parent":null,"sorting":"a","sort":400000,"color":"#d0ae06","flags":{}}
 {"_id":"rYCcpFXaUjSor6GB","name":"Hub Creation","type":"RollTable","parent":null,"sorting":"a","sort":200000,"flags":{}}
 {"name":"Equipment","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"uuXPmACUMQetFQfH"}
@@ -29,5 +30,3 @@
 {"name":"Electronics","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"x9R09BoTJZgmESMS"}
 {"name":"Hub Modules - General","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"yTyyN7eiqwWC2ptS"}
 {"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":null,"sorting":"a","sort":100000,"flags":{}}
-{"_id":"ngRxhE55m07pfJvk","name":"Referee Journal","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#8a0094","flags":{}}
-{"name":"Sessions","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#40e746","flags":{},"_id":"ZoLkJpSRmHtofj5S"}
