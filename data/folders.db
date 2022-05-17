@@ -1,29 +1,44 @@
 {"_id":"3FbONCA77hPQeJlx","name":"Character Creation","type":"RollTable","parent":null,"sorting":"a","sort":100000,"flags":{}}
 {"name":"Origins","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"5zS9GQc1sPfP9Jeo"}
+{"name":"Cheat Sheet","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"8LcXoQSC6uVXk7Xj"}
+{"name":"Ancient/Ring Cell","type":"Actor","parent":"HM3VITA5OkRsX7k8","sorting":"a","sort":0,"color":null,"flags":{},"_id":"9jTJBC0ElVxnBVo9"}
+{"name":"Block Cell","type":"Actor","parent":"HM3VITA5OkRsX7k8","sorting":"a","sort":0,"color":null,"flags":{},"_id":"9tZWaozgDXbV9KKo"}
 {"_id":"AsurzCrw05dbRQ0P","name":"The Ring","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":0,"color":"#d0ae06","flags":{}}
 {"_id":"B04P3iC43y5Svit7","name":"TheRing","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#d0ae06","flags":{}}
 {"name":"Personal Trinkets","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"BZl0GobP5YvCLGnd"}
+{"_id":"C44UxMQMLMe53Nx7","name":"To The Void (TTO)","type":"Actor","parent":"MpJTHkt3ovtAGUGF","sorting":"a","sort":200000,"color":null,"flags":{}}
 {"name":"Randos","type":"Actor","parent":"JysZW9UZRhR8AaDj","sorting":"a","sort":0,"color":null,"flags":{},"_id":"CQ8XvPlecaY5cfKl"}
 {"name":"Computer Center","type":"JournalEntry","parent":"AsurzCrw05dbRQ0P","sorting":"a","sort":0,"color":null,"flags":{},"_id":"CkeWtQoynvVDPYU6"}
 {"name":"ThePassell","type":"Actor","parent":"JysZW9UZRhR8AaDj","sorting":"a","sort":0,"color":null,"flags":{},"_id":"E1TF7MjBvMdltuBc"}
+{"name":"Docking Bay","type":"JournalEntry","parent":"AsurzCrw05dbRQ0P","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EzBNatNQDBfsbxKm"}
+{"_id":"F9k4TCwnh3f1ewN2","name":"Characters","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":100000,"color":null,"flags":{}}
 {"name":"Frames","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"Grca495sSOsuJlZE"}
+{"name":"Materia First","type":"Actor","parent":"MpJTHkt3ovtAGUGF","sorting":"a","sort":0,"color":null,"flags":{},"_id":"HM3VITA5OkRsX7k8"}
 {"name":"Origin Benefits","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"HS8uKGXGGfrZR6Pq"}
 {"name":"Engine Room","type":"JournalEntry","parent":"AsurzCrw05dbRQ0P","sorting":"a","sort":0,"color":null,"flags":{},"_id":"IvTCVhhKuwGoJSuP"}
-{"_id":"JysZW9UZRhR8AaDj","name":"TheRing-ComputerCenter","type":"Actor","parent":null,"sorting":"a","sort":300000,"color":"#d0ae06","flags":{}}
+{"name":"The Ring","type":"JournalEntry","parent":"sY1VtyaUgbzsIxmZ","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Jxz8ooXUvQxHQ4gD"}
+{"_id":"JysZW9UZRhR8AaDj","name":"TheRing-ComputerCenter","type":"Actor","parent":null,"sorting":"a","sort":600000,"color":"#d0ae06","flags":{}}
+{"_id":"MpJTHkt3ovtAGUGF","name":"Cults","type":"Actor","parent":null,"sorting":"a","sort":400000,"color":null,"flags":{}}
 {"_id":"NYd2Qtgl8RGHF4Jn","name":"ComputerCenter","type":"RollTable","parent":"opcKl5M7CdCfiNfR","sorting":"a","sort":100000,"color":"#d0ae06","flags":{}}
+{"_id":"Pd3nqiYHqlUu2bwN","name":"Player Characters","type":"Actor","parent":null,"sorting":"a","sort":200000,"color":"#7100ad","flags":{}}
 {"name":"Hub Modules - Confrontation","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"WmmuPkcXfI2cYRaM"}
 {"name":"Weapons","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"XMpX84hR8mPawZnU"}
 {"name":"EngineRoom","type":"RollTable","parent":"opcKl5M7CdCfiNfR","sorting":"a","sort":0,"color":"#d0ae06","flags":{},"_id":"YZv61vCS0tAhv182"}
 {"name":"Armor","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"ZTzIdpvllnb4E67z"}
+{"_id":"ZoLkJpSRmHtofj5S","name":"Sessions","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":200000,"color":"#40e746","flags":{}}
 {"_id":"ao0ljE0O0vXqpIlI","name":"Parliment","type":"Actor","parent":"JysZW9UZRhR8AaDj","sorting":"a","sort":100000,"color":"","flags":{}}
+{"name":"Cults","type":"JournalEntry","parent":"sY1VtyaUgbzsIxmZ","sorting":"a","sort":0,"color":null,"flags":{},"_id":"buryL6mL3u1Aa357"}
 {"name":"Power Systems","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"kcSsuSPXkM8Wy7oU"}
 {"name":"Cosmic Mutations","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"krzaTeDvtqqEcmuP"}
 {"name":"Hub Modules - Tech","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"mLGhJee5TGHBFhlF"}
-{"name":"GM Journal","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#8a0094","flags":{},"_id":"ngRxhE55m07pfJvk"}
+{"_id":"ngRxhE55m07pfJvk","name":"Referee Journal","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#8a0094","flags":{}}
 {"_id":"opcKl5M7CdCfiNfR","name":"TheRing","type":"RollTable","parent":null,"sorting":"a","sort":400000,"color":"#d0ae06","flags":{}}
 {"_id":"rYCcpFXaUjSor6GB","name":"Hub Creation","type":"RollTable","parent":null,"sorting":"a","sort":200000,"flags":{}}
+{"name":"Factions","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"sY1VtyaUgbzsIxmZ"}
 {"name":"Equipment","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"uuXPmACUMQetFQfH"}
 {"name":"Hub Modules - Core Functions","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"uyiQpQd0ZfTXHuNx"}
+{"_id":"vwxo2ut4HjyKYHFs","name":"Liiad Somnium","type":"Actor","parent":"MpJTHkt3ovtAGUGF","sorting":"a","sort":100000,"color":null,"flags":{}}
 {"name":"Electronics","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"x9R09BoTJZgmESMS"}
 {"name":"Hub Modules - General","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"yTyyN7eiqwWC2ptS"}
-{"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":null,"sorting":"a","sort":100000,"flags":{}}
+{"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":null,"sorting":"a","sort":500000,"flags":{}}
+{"name":"Space Encounters","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"z9JswSamBKsP5mDL"}
