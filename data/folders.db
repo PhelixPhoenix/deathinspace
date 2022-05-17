@@ -1,4 +1,5 @@
 {"_id":"3FbONCA77hPQeJlx","name":"Character Creation","type":"RollTable","parent":null,"sorting":"a","sort":100000,"flags":{}}
+{"name":"Creatures","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"3d0KKWlMweRFe5QV"}
 {"name":"Origins","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"5zS9GQc1sPfP9Jeo"}
 {"name":"Cheat Sheet","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"8LcXoQSC6uVXk7Xj"}
 {"name":"Ancient/Ring Cell","type":"Actor","parent":"HM3VITA5OkRsX7k8","sorting":"a","sort":0,"color":null,"flags":{},"_id":"9jTJBC0ElVxnBVo9"}
@@ -11,7 +12,8 @@
 {"name":"Computer Center","type":"JournalEntry","parent":"AsurzCrw05dbRQ0P","sorting":"a","sort":0,"color":null,"flags":{},"_id":"CkeWtQoynvVDPYU6"}
 {"name":"ThePassell","type":"Actor","parent":"JysZW9UZRhR8AaDj","sorting":"a","sort":0,"color":null,"flags":{},"_id":"E1TF7MjBvMdltuBc"}
 {"name":"Docking Bay","type":"JournalEntry","parent":"AsurzCrw05dbRQ0P","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EzBNatNQDBfsbxKm"}
-{"_id":"F9k4TCwnh3f1ewN2","name":"Characters","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"F9k4TCwnh3f1ewN2","name":"Characters","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":100000,"color":"#002594","flags":{}}
+{"name":"Creatures","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"GPKT8FBgKCKDZyd4"}
 {"name":"Frames","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"Grca495sSOsuJlZE"}
 {"name":"Materia First","type":"Actor","parent":"MpJTHkt3ovtAGUGF","sorting":"a","sort":0,"color":null,"flags":{},"_id":"HM3VITA5OkRsX7k8"}
 {"name":"Origin Benefits","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"HS8uKGXGGfrZR6Pq"}
@@ -42,3 +44,8 @@
 {"name":"Hub Modules - General","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"yTyyN7eiqwWC2ptS"}
 {"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":null,"sorting":"a","sort":500000,"flags":{}}
 {"name":"Space Encounters","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"z9JswSamBKsP5mDL"}
+{"name":"Reactions","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"FFKeldwtNT2tiN8v"}
+{"name":"Places","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"sFt9aEwhf6tmFIlm"}
+{"name":"Factions","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":0,"color":null,"flags":{},"_id":"VMtmKMX2RWwJkF3o"}
+{"name":"Salvage Crew","type":"Actor","parent":"JysZW9UZRhR8AaDj","sorting":"a","sort":0,"color":null,"flags":{},"_id":"xridpsc81WUiaqLX"}
+{"_id":"JysZW9UZRhR8AaDj","name":"TheRing","type":"Actor","parent":null,"sorting":"a","sort":600000,"color":"#d0ae06","flags":{}}
