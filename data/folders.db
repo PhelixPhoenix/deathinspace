@@ -32,6 +32,7 @@
 {"name":"Hub Modules - Confrontation","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"WmmuPkcXfI2cYRaM"}
 {"name":"Weapons","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"XMpX84hR8mPawZnU"}
 {"name":"EngineRoom","type":"RollTable","parent":"opcKl5M7CdCfiNfR","sorting":"a","sort":0,"color":"#d0ae06","flags":{},"_id":"YZv61vCS0tAhv182"}
+{"name":"Sessions","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":0,"color":null,"flags":{},"_id":"YyxEJ31VUjCqwx8W"}
 {"name":"Armor","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"ZTzIdpvllnb4E67z"}
 {"_id":"ZoLkJpSRmHtofj5S","name":"Sessions","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":200000,"color":"#40e746","flags":{}}
 {"_id":"ao0ljE0O0vXqpIlI","name":"Parliment","type":"Actor","parent":"JysZW9UZRhR8AaDj","sorting":"a","sort":100000,"color":"","flags":{}}
@@ -53,4 +54,4 @@
 {"name":"Hub Modules - General","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"yTyyN7eiqwWC2ptS"}
 {"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":null,"sorting":"a","sort":600000,"flags":{}}
 {"name":"Space Encounters","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"z9JswSamBKsP5mDL"}
-{"name":"Sessions","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":0,"color":null,"flags":{},"_id":"YyxEJ31VUjCqwx8W"}
+{"name":"Plot Notes","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EiPDmT8bLv919FyZ"}
