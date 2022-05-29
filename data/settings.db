@@ -1,4 +1,4 @@
-{"key":"core.moduleConfiguration","value":"{\"dd-import\":true}","_id":"30YyjIJ1UgROALS2"}
+{"_id":"30YyjIJ1UgROALS2","key":"core.moduleConfiguration","value":"{\"dd-import\":true,\"rolltable-from-sidebar\":true}"}
 {"key":"core.time","value":"0","_id":"bvBsxPVybcAjXNsa"}
 {"key":"dd-import.importSettings","value":"{\"source\":\"data\",\"bucket\":\"\",\"region\":\"\",\"path\":\"worlds/death-in-space\",\"offset\":0,\"padding\":0.25,\"fidelity\":1,\"multiImageMode\":\"g\",\"webpConversion\":true,\"wallsAroundFiles\":true}","_id":"dYBo6XU9JahirNfG"}
 {"_id":"sgs0vW5lKNYuYaXs","key":"core.combatTrackerConfig","value":"{\"resource\":\"\",\"skipDefeated\":false}"}
