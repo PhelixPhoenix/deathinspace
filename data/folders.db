@@ -24,6 +24,7 @@
 {"name":"Engine Room","type":"JournalEntry","parent":"AsurzCrw05dbRQ0P","sorting":"a","sort":0,"color":null,"flags":{},"_id":"IvTCVhhKuwGoJSuP"}
 {"name":"The Ring","type":"JournalEntry","parent":"sY1VtyaUgbzsIxmZ","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Jxz8ooXUvQxHQ4gD"}
 {"_id":"JysZW9UZRhR8AaDj","name":"TheRing","type":"Actor","parent":null,"sorting":"a","sort":200000,"color":"#d0ae06","flags":{}}
+{"name":"One Shots","type":"Actor","parent":"Pd3nqiYHqlUu2bwN","sorting":"a","sort":0,"color":null,"flags":{},"_id":"MD4SIBLwpXtjFch9"}
 {"_id":"MpJTHkt3ovtAGUGF","name":"Cults","type":"Actor","parent":null,"sorting":"a","sort":500000,"color":null,"flags":{}}
 {"_id":"NYd2Qtgl8RGHF4Jn","name":"ComputerCenter","type":"RollTable","parent":"opcKl5M7CdCfiNfR","sorting":"a","sort":100000,"color":"#d0ae06","flags":{}}
 {"_id":"NiJXF7rUuRVRtcbE","name":"Corporations","type":"JournalEntry","parent":"sY1VtyaUgbzsIxmZ","sorting":"a","sort":100000,"color":null,"flags":{}}
@@ -33,6 +34,7 @@
 {"name":"Hub Modules - Confrontation","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"WmmuPkcXfI2cYRaM"}
 {"name":"Weapons","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"XMpX84hR8mPawZnU"}
 {"name":"EngineRoom","type":"RollTable","parent":"opcKl5M7CdCfiNfR","sorting":"a","sort":0,"color":"#d0ae06","flags":{},"_id":"YZv61vCS0tAhv182"}
+{"name":"Enemy Ships","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"YvIdxUfQ2o8ZYEE8"}
 {"name":"Sessions","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":0,"color":null,"flags":{},"_id":"YyxEJ31VUjCqwx8W"}
 {"name":"Armor","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"ZTzIdpvllnb4E67z"}
 {"_id":"ZoLkJpSRmHtofj5S","name":"Sessions","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":200000,"color":"#40e746","flags":{}}
@@ -57,5 +59,3 @@
 {"name":"Hub Modules - General","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"yTyyN7eiqwWC2ptS"}
 {"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":null,"sorting":"a","sort":600000,"flags":{}}
 {"name":"Space Encounters","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"z9JswSamBKsP5mDL"}
-{"name":"One Shots","type":"Actor","parent":"Pd3nqiYHqlUu2bwN","sorting":"a","sort":0,"color":null,"flags":{},"_id":"MD4SIBLwpXtjFch9"}
-{"name":"Enemy Ships","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"YvIdxUfQ2o8ZYEE8"}
