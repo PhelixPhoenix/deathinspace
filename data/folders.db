@@ -57,3 +57,5 @@
 {"name":"Hub Modules - General","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"yTyyN7eiqwWC2ptS"}
 {"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":null,"sorting":"a","sort":600000,"flags":{}}
 {"name":"Space Encounters","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"z9JswSamBKsP5mDL"}
+{"name":"One Shots","type":"Actor","parent":"Pd3nqiYHqlUu2bwN","sorting":"a","sort":0,"color":null,"flags":{},"_id":"MD4SIBLwpXtjFch9"}
+{"name":"Enemy Ships","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"YvIdxUfQ2o8ZYEE8"}
