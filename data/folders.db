@@ -26,6 +26,7 @@
 {"_id":"JysZW9UZRhR8AaDj","name":"TheRing","type":"Actor","parent":null,"sorting":"a","sort":200000,"color":"#d0ae06","flags":{}}
 {"name":"One Shots","type":"Actor","parent":"Pd3nqiYHqlUu2bwN","sorting":"a","sort":0,"color":null,"flags":{},"_id":"MD4SIBLwpXtjFch9"}
 {"_id":"MpJTHkt3ovtAGUGF","name":"Cults","type":"Actor","parent":null,"sorting":"a","sort":500000,"color":null,"flags":{}}
+{"name":"Names","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"NQNxobXWmr2EmdAZ"}
 {"_id":"NYd2Qtgl8RGHF4Jn","name":"ComputerCenter","type":"RollTable","parent":"opcKl5M7CdCfiNfR","sorting":"a","sort":100000,"color":"#d0ae06","flags":{}}
 {"_id":"NiJXF7rUuRVRtcbE","name":"Corporations","type":"JournalEntry","parent":"sY1VtyaUgbzsIxmZ","sorting":"a","sort":100000,"color":null,"flags":{}}
 {"_id":"Pd3nqiYHqlUu2bwN","name":"Player Characters","type":"Actor","parent":null,"sorting":"a","sort":400000,"color":"#7100ad","flags":{}}
@@ -59,4 +60,6 @@
 {"name":"Hub Modules - General","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"yTyyN7eiqwWC2ptS"}
 {"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":null,"sorting":"a","sort":600000,"flags":{}}
 {"name":"Space Encounters","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"z9JswSamBKsP5mDL"}
-{"name":"Names","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"NQNxobXWmr2EmdAZ"}
+{"name":"Spacecraft Disaster","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"S5f6jPdOL1yXTaw7"}
+{"name":"Lepidoptera","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"DLmcnnV8xhXm0fMV"}
+{"name":"Salvage Jobs","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":0,"color":null,"flags":{},"_id":"3vMga1chrooLUWpk"}
