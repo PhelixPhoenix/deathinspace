@@ -46,6 +46,7 @@
 {"name":"Cults","type":"JournalEntry","parent":"sY1VtyaUgbzsIxmZ","sorting":"a","sort":0,"color":null,"flags":{},"_id":"buryL6mL3u1Aa357"}
 {"name":"Power Systems","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"kcSsuSPXkM8Wy7oU"}
 {"name":"Cosmic Mutations","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"krzaTeDvtqqEcmuP"}
+{"name":"Salvage Jobs (frames)","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"lIOUoYAGQMVMDwpD"}
 {"name":"Hub Modules - Tech","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"mLGhJee5TGHBFhlF"}
 {"name":"TOP SECRET","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#ff0000","flags":{},"_id":"mrHtemJaXvQfJeeI"}
 {"_id":"nBsYjLnrMiBqQxqd","name":"Aurum Sector","type":"Actor","parent":null,"sorting":"a","sort":300000,"color":null,"flags":{}}
@@ -63,4 +64,7 @@
 {"name":"Hub Modules - General","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"yTyyN7eiqwWC2ptS"}
 {"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":null,"sorting":"a","sort":600000,"flags":{}}
 {"name":"Space Encounters","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"z9JswSamBKsP5mDL"}
-{"name":"Salvage Jobs (frames)","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"lIOUoYAGQMVMDwpD"}
+{"name":"Food","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"gXceWAbgX5u3nXBA"}
+{"name":"Clothing","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"dWtEYHaxskkBERQr"}
+{"name":"Useables and Services","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"dufALId7aMp6g5eZ"}
+{"name":"Repairs and Spare Parts","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"4qEpSskmtzoaHmC5"}
