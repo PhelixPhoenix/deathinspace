@@ -1,71 +1,105 @@
-{"_id":"087UxinnekmCJUU2","name":"Aurum Sector","type":"JournalEntry","parent":null,"sorting":"a","sort":600000,"color":null,"flags":{}}
+{"_id":"087UxinnekmCJUU2","name":"Aurum Sector","type":"JournalEntry","parent":null,"sorting":"a","sort":200000,"color":null,"flags":{}}
 {"_id":"3FbONCA77hPQeJlx","name":"Character Creation","type":"RollTable","parent":null,"sorting":"a","sort":100000,"flags":{}}
-{"_id":"3d0KKWlMweRFe5QV","name":"Creatures","type":"Actor","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"3d0KKWlMweRFe5QV","name":"Creatures","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":500000,"color":null,"flags":{}}
 {"name":"Salvage Jobs","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":0,"color":null,"flags":{},"_id":"3vMga1chrooLUWpk"}
-{"name":"Repairs and Spare Parts","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"4qEpSskmtzoaHmC5"}
-{"name":"Origins","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"5zS9GQc1sPfP9Jeo"}
+{"_id":"4qEpSskmtzoaHmC5","name":"Repairs and Spare Parts","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
+{"_id":"5zS9GQc1sPfP9Jeo","name":"Origins","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"_id":"8LcXoQSC6uVXk7Xj","name":"Cheat Sheet","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":100000,"color":null,"flags":{}}
-{"name":"Ancient/Ring Cell","type":"Actor","parent":"HM3VITA5OkRsX7k8","sorting":"a","sort":0,"color":null,"flags":{},"_id":"9jTJBC0ElVxnBVo9"}
-{"name":"Block Cell","type":"Actor","parent":"HM3VITA5OkRsX7k8","sorting":"a","sort":0,"color":null,"flags":{},"_id":"9tZWaozgDXbV9KKo"}
-{"name":"Player's Space","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#0003b8","flags":{},"_id":"9ugg6eVxe7Io2xlE"}
+{"_id":"9jTJBC0ElVxnBVo9","name":"Ancient/Ring Cell","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":1000000,"color":null,"flags":{}}
+{"_id":"9tZWaozgDXbV9KKo","name":"Block Cell","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":1100000,"color":null,"flags":{}}
+{"_id":"9ugg6eVxe7Io2xlE","name":"Player's Space","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"_id":"AsurzCrw05dbRQ0P","name":"The Ring","type":"JournalEntry","parent":"087UxinnekmCJUU2","sorting":"a","sort":100000,"color":"#d0ae06","flags":{}}
 {"_id":"B04P3iC43y5Svit7","name":"TheRing","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#d0ae06","flags":{}}
-{"name":"Personal Trinkets","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"BZl0GobP5YvCLGnd"}
+{"_id":"BZl0GobP5YvCLGnd","name":"Personal Trinkets","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"_id":"C44UxMQMLMe53Nx7","name":"To The Void (TTO)","type":"Actor","parent":"MpJTHkt3ovtAGUGF","sorting":"a","sort":200000,"color":null,"flags":{}}
 {"name":"Randos","type":"Actor","parent":"JysZW9UZRhR8AaDj","sorting":"a","sort":0,"color":null,"flags":{},"_id":"CQ8XvPlecaY5cfKl"}
 {"name":"Computer Center","type":"JournalEntry","parent":"AsurzCrw05dbRQ0P","sorting":"a","sort":0,"color":null,"flags":{},"_id":"CkeWtQoynvVDPYU6"}
-{"name":"Lepidoptera","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"DLmcnnV8xhXm0fMV"}
+{"_id":"DLmcnnV8xhXm0fMV","name":"Lepidoptera","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":200000,"color":null,"flags":{}}
 {"name":"ThePassell","type":"Actor","parent":"JysZW9UZRhR8AaDj","sorting":"a","sort":0,"color":null,"flags":{},"_id":"E1TF7MjBvMdltuBc"}
 {"name":"Plot Notes","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EiPDmT8bLv919FyZ"}
 {"name":"Docking Bay","type":"JournalEntry","parent":"AsurzCrw05dbRQ0P","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EzBNatNQDBfsbxKm"}
 {"_id":"F9k4TCwnh3f1ewN2","name":"Characters","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":100000,"color":"#002594","flags":{}}
 {"name":"Reactions","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"FFKeldwtNT2tiN8v"}
 {"name":"Creatures","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"GPKT8FBgKCKDZyd4"}
-{"name":"Frames","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"Grca495sSOsuJlZE"}
+{"_id":"Grca495sSOsuJlZE","name":"Frames","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#b7b101","flags":{}}
 {"name":"Materia First","type":"Actor","parent":"MpJTHkt3ovtAGUGF","sorting":"a","sort":0,"color":null,"flags":{},"_id":"HM3VITA5OkRsX7k8"}
-{"name":"Origin Benefits","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"HS8uKGXGGfrZR6Pq"}
+{"_id":"HS8uKGXGGfrZR6Pq","name":"Origin Benefits","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"name":"Engine Room","type":"JournalEntry","parent":"AsurzCrw05dbRQ0P","sorting":"a","sort":0,"color":null,"flags":{},"_id":"IvTCVhhKuwGoJSuP"}
 {"name":"The Ring","type":"JournalEntry","parent":"sY1VtyaUgbzsIxmZ","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Jxz8ooXUvQxHQ4gD"}
-{"_id":"JysZW9UZRhR8AaDj","name":"TheRing","type":"Actor","parent":null,"sorting":"a","sort":200000,"color":"#d0ae06","flags":{}}
+{"_id":"JysZW9UZRhR8AaDj","name":"TheRing","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":600000,"color":"#d0ae06","flags":{}}
 {"name":"One Shots","type":"Actor","parent":"Pd3nqiYHqlUu2bwN","sorting":"a","sort":0,"color":null,"flags":{},"_id":"MD4SIBLwpXtjFch9"}
-{"_id":"MpJTHkt3ovtAGUGF","name":"Cults","type":"Actor","parent":null,"sorting":"a","sort":500000,"color":null,"flags":{}}
+{"_id":"MoV65ILWFs50hqi9","name":"Player Area","type":"Actor","parent":null,"sorting":"a","sort":600000,"color":"#002eb8","flags":{}}
+{"_id":"MpJTHkt3ovtAGUGF","name":"Cults","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":800000,"color":null,"flags":{}}
 {"name":"Names","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"NQNxobXWmr2EmdAZ"}
 {"_id":"NYd2Qtgl8RGHF4Jn","name":"ComputerCenter","type":"RollTable","parent":"opcKl5M7CdCfiNfR","sorting":"a","sort":100000,"color":"#d0ae06","flags":{}}
 {"_id":"NiJXF7rUuRVRtcbE","name":"Corporations","type":"JournalEntry","parent":"sY1VtyaUgbzsIxmZ","sorting":"a","sort":100000,"color":null,"flags":{}}
-{"_id":"Pd3nqiYHqlUu2bwN","name":"Player Characters","type":"Actor","parent":null,"sorting":"a","sort":400000,"color":"#7100ad","flags":{}}
+{"_id":"Pd3nqiYHqlUu2bwN","name":"Player Characters","type":"Actor","parent":"MoV65ILWFs50hqi9","sorting":"a","sort":100000,"color":"#002eb8","flags":{}}
 {"name":"Spacecraft Disaster","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"S5f6jPdOL1yXTaw7"}
 {"name":"History","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":0,"color":null,"flags":{},"_id":"TOufdIOMxcavKQbV"}
 {"name":"Factions","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":0,"color":null,"flags":{},"_id":"VMtmKMX2RWwJkF3o"}
-{"name":"Hub Modules - Confrontation","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"WmmuPkcXfI2cYRaM"}
-{"name":"Weapons","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"XMpX84hR8mPawZnU"}
+{"_id":"WmmuPkcXfI2cYRaM","name":"Hub Modules - Confrontation","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
+{"_id":"XMpX84hR8mPawZnU","name":"Weapons","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"name":"Travel","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#350174","flags":{},"_id":"Y5CcQFCCAdbYrQ6D"}
 {"name":"EngineRoom","type":"RollTable","parent":"opcKl5M7CdCfiNfR","sorting":"a","sort":0,"color":"#d0ae06","flags":{},"_id":"YZv61vCS0tAhv182"}
-{"name":"Enemy Ships","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"YvIdxUfQ2o8ZYEE8"}
+{"_id":"YvIdxUfQ2o8ZYEE8","name":"Enemy Ships","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":100000,"color":null,"flags":{}}
 {"name":"Sessions","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":0,"color":null,"flags":{},"_id":"YyxEJ31VUjCqwx8W"}
-{"name":"Armor","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"ZTzIdpvllnb4E67z"}
+{"_id":"ZTzIdpvllnb4E67z","name":"Armor","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"_id":"ZoLkJpSRmHtofj5S","name":"Sessions","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":200000,"color":"#40e746","flags":{}}
 {"_id":"ao0ljE0O0vXqpIlI","name":"Parliment","type":"Actor","parent":"JysZW9UZRhR8AaDj","sorting":"a","sort":100000,"color":"","flags":{}}
 {"name":"Cults","type":"JournalEntry","parent":"sY1VtyaUgbzsIxmZ","sorting":"a","sort":0,"color":null,"flags":{},"_id":"buryL6mL3u1Aa357"}
-{"name":"Clothing","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"dWtEYHaxskkBERQr"}
-{"name":"Useables and Services","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"dufALId7aMp6g5eZ"}
-{"name":"Food","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"gXceWAbgX5u3nXBA"}
-{"name":"Power Systems","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"kcSsuSPXkM8Wy7oU"}
-{"name":"Cosmic Mutations","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"krzaTeDvtqqEcmuP"}
-{"name":"Salvage Jobs (frames)","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"lIOUoYAGQMVMDwpD"}
-{"name":"Hub Modules - Tech","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"mLGhJee5TGHBFhlF"}
-{"name":"TOP SECRET","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#ff0000","flags":{},"_id":"mrHtemJaXvQfJeeI"}
-{"_id":"nBsYjLnrMiBqQxqd","name":"Aurum Sector","type":"Actor","parent":null,"sorting":"a","sort":300000,"color":null,"flags":{}}
+{"_id":"dWtEYHaxskkBERQr","name":"Clothing","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
+{"_id":"dufALId7aMp6g5eZ","name":"Useables and Services","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
+{"_id":"gXceWAbgX5u3nXBA","name":"Food","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
+{"name":"Referee Area","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#007a04","flags":{},"_id":"hXZa07Pyjx9hldbi"}
+{"_id":"kcSsuSPXkM8Wy7oU","name":"Power Systems","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
+{"_id":"krzaTeDvtqqEcmuP","name":"Cosmic Mutations","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
+{"_id":"lIOUoYAGQMVMDwpD","name":"Salvage Jobs (frames)","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"_id":"mLGhJee5TGHBFhlF","name":"Hub Modules - Tech","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
+{"_id":"mrHtemJaXvQfJeeI","name":"TOP SECRET","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":400000,"color":"#ff0000","flags":{}}
+{"_id":"nBsYjLnrMiBqQxqd","name":"Aurum Sector","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":700000,"color":null,"flags":{}}
 {"name":"Contracts","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"nCu3Odw6hOrds77y"}
 {"_id":"ngRxhE55m07pfJvk","name":"Referee Journal","type":"JournalEntry","parent":null,"sorting":"a","sort":400000,"color":"#8a0094","flags":{}}
 {"_id":"opcKl5M7CdCfiNfR","name":"TheRing","type":"RollTable","parent":null,"sorting":"a","sort":400000,"color":"#d0ae06","flags":{}}
 {"_id":"rYCcpFXaUjSor6GB","name":"Hub Creation","type":"RollTable","parent":null,"sorting":"a","sort":200000,"flags":{}}
 {"_id":"sFt9aEwhf6tmFIlm","name":"Places","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":300000,"color":null,"flags":{}}
 {"_id":"sY1VtyaUgbzsIxmZ","name":"Factions","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":200000,"color":null,"flags":{}}
-{"name":"Equipment","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"uuXPmACUMQetFQfH"}
-{"name":"Hub Modules - Core Functions","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"uyiQpQd0ZfTXHuNx"}
+{"_id":"uuXPmACUMQetFQfH","name":"Equipment","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
+{"_id":"uyiQpQd0ZfTXHuNx","name":"Hub Modules - Core Functions","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"_id":"vwxo2ut4HjyKYHFs","name":"Liiad Somnium","type":"Actor","parent":"MpJTHkt3ovtAGUGF","sorting":"a","sort":100000,"color":null,"flags":{}}
-{"name":"Electronics","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"x9R09BoTJZgmESMS"}
+{"_id":"x9R09BoTJZgmESMS","name":"Electronics","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"name":"Salvage Crew","type":"Actor","parent":"JysZW9UZRhR8AaDj","sorting":"a","sort":0,"color":null,"flags":{},"_id":"xridpsc81WUiaqLX"}
-{"name":"Hub Modules - General","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"yTyyN7eiqwWC2ptS"}
-{"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":null,"sorting":"a","sort":600000,"flags":{}}
+{"_id":"yTyyN7eiqwWC2ptS","name":"Hub Modules - General","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
+{"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":900000,"flags":{}}
 {"name":"Space Encounters","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"z9JswSamBKsP5mDL"}
+{"_id":"087UxinnekmCJUU2","name":"Aurum Sector","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"_id":"CkeWtQoynvVDPYU6","name":"Computer Center","type":"JournalEntry","parent":null,"sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"CkeWtQoynvVDPYU6","name":"Computer Center","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":400000,"color":null,"flags":{}}
+{"name":"The Iron Ring","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":0,"color":null,"flags":{},"_id":"77fZsHGNmxj5rmCZ"}
+{"_id":"VMtmKMX2RWwJkF3o","name":"Factions","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"EiPDmT8bLv919FyZ","name":"Plot Notes","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"3vMga1chrooLUWpk","name":"Salvage Jobs","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"_id":"77fZsHGNmxj5rmCZ","name":"The Iron Ring","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":500000,"color":null,"flags":{}}
+{"_id":"F9k4TCwnh3f1ewN2","name":"Characters","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":600000,"color":"#002594","flags":{}}
+{"_id":"ZoLkJpSRmHtofj5S","name":"Sessions","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":700000,"color":"#40e746","flags":{}}
+{"_id":"087UxinnekmCJUU2","name":"Aurum Sector","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":800000,"color":null,"flags":{}}
+{"_id":"CkeWtQoynvVDPYU6","name":"Computer Center","type":"JournalEntry","parent":"77fZsHGNmxj5rmCZ","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"EzBNatNQDBfsbxKm","name":"Docking Bay","type":"JournalEntry","parent":"77fZsHGNmxj5rmCZ","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"IvTCVhhKuwGoJSuP","name":"Engine Room","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":400000,"color":null,"flags":{}}
+{"name":"Descriptions","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":0,"color":null,"flags":{},"_id":"DT80NDjYkbb3za5Y"}
+{"_id":"77fZsHGNmxj5rmCZ","name":"The Iron Ring","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":-100000,"color":null,"flags":{}}
+{"_id":"77fZsHGNmxj5rmCZ","name":"The Iron Ring","type":"JournalEntry","parent":"DT80NDjYkbb3za5Y","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"IvTCVhhKuwGoJSuP","name":"Engine Room","type":"JournalEntry","parent":"DT80NDjYkbb3za5Y","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"CkeWtQoynvVDPYU6","name":"Computer Center","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":-100000,"color":null,"flags":{}}
+{"_id":"CkeWtQoynvVDPYU6","name":"Computer Center","type":"JournalEntry","parent":"DT80NDjYkbb3za5Y","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"_id":"EzBNatNQDBfsbxKm","name":"Docking Bay","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":-100000,"color":null,"flags":{}}
+{"_id":"IvTCVhhKuwGoJSuP","name":"Engine Room","type":"JournalEntry","parent":"DT80NDjYkbb3za5Y","sorting":"a","sort":0,"color":null,"flags":{}}
+{"$$deleted":true,"_id":"77fZsHGNmxj5rmCZ"}
+{"_id":"EzBNatNQDBfsbxKm","name":"Docking Bay","type":"JournalEntry","parent":"DT80NDjYkbb3za5Y","sorting":"a","sort":400000,"color":null,"flags":{}}
+{"_id":"F9k4TCwnh3f1ewN2","name":"Characters","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":600000,"color":"#002eb8","flags":{}}
+{"$$deleted":true,"_id":"AsurzCrw05dbRQ0P"}
+{"_id":"DT80NDjYkbb3za5Y","name":"Descriptions","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":0,"color":"#e89521","flags":{}}
+{"_id":"VMtmKMX2RWwJkF3o","name":"Factions","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":100000,"color":"#f3e51b","flags":{}}
+{"_id":"VMtmKMX2RWwJkF3o","name":"Factions","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":100000,"color":"#d3c717","flags":{}}
+{"_id":"EiPDmT8bLv919FyZ","name":"Plot Notes","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":200000,"color":"#1da701","flags":{}}
+{"_id":"3vMga1chrooLUWpk","name":"Salvage Jobs","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":300000,"color":"#079c92","flags":{}}
+{"$$deleted":true,"_id":"087UxinnekmCJUU2"}
