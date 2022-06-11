@@ -1,4 +1,4 @@
-{"_id":"3FbONCA77hPQeJlx","name":"Character Creation","type":"RollTable","parent":null,"sorting":"a","sort":100000,"flags":{}}
+{"_id":"3FbONCA77hPQeJlx","name":"Character Creation","type":"RollTable","parent":null,"sorting":"a","sort":100000,"color":"#439914","flags":{}}
 {"_id":"3d0KKWlMweRFe5QV","name":"Creatures","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":500000,"color":null,"flags":{}}
 {"_id":"3vMga1chrooLUWpk","name":"Salvage Jobs","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":300000,"color":"#079c92","flags":{}}
 {"_id":"4qEpSskmtzoaHmC5","name":"Repairs and Spare Parts","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
@@ -59,7 +59,7 @@
 {"_id":"nCu3Odw6hOrds77y","name":"Contracts","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#077e1b","flags":{}}
 {"_id":"ngRxhE55m07pfJvk","name":"Referee Journal","type":"JournalEntry","parent":null,"sorting":"a","sort":400000,"color":"#8a0094","flags":{}}
 {"_id":"opcKl5M7CdCfiNfR","name":"TheRing","type":"RollTable","parent":null,"sorting":"a","sort":400000,"color":"#d0ae06","flags":{}}
-{"_id":"rYCcpFXaUjSor6GB","name":"Hub Creation","type":"RollTable","parent":null,"sorting":"a","sort":200000,"flags":{}}
+{"_id":"rYCcpFXaUjSor6GB","name":"Hub Creation","type":"RollTable","parent":null,"sorting":"a","sort":200000,"color":"#0c973d","flags":{}}
 {"_id":"sFt9aEwhf6tmFIlm","name":"Places","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":300000,"color":"#e89521","flags":{}}
 {"_id":"sY1VtyaUgbzsIxmZ","name":"Factions","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":200000,"color":"#d3c717","flags":{}}
 {"_id":"uuXPmACUMQetFQfH","name":"Equipment","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
@@ -70,5 +70,3 @@
 {"_id":"yTyyN7eiqwWC2ptS","name":"Hub Modules - General","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":900000,"flags":{}}
 {"_id":"z9JswSamBKsP5mDL","name":"Space Encounters","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#1e5cae","flags":{}}
-{"_id":"3FbONCA77hPQeJlx","name":"Character Creation","type":"RollTable","parent":null,"sorting":"a","sort":100000,"color":"#439914","flags":{}}
-{"_id":"rYCcpFXaUjSor6GB","name":"Hub Creation","type":"RollTable","parent":null,"sorting":"a","sort":200000,"color":"#0c973d","flags":{}}
