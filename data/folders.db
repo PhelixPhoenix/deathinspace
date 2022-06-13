@@ -44,6 +44,7 @@
 {"_id":"YyxEJ31VUjCqwx8W","name":"Sessions","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":0,"color":"#3cd341","flags":{}}
 {"_id":"ZTzIdpvllnb4E67z","name":"Armor","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"_id":"ZoLkJpSRmHtofj5S","name":"Sessions","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":700000,"color":"#3cd341","flags":{}}
+{"_id":"aLi8SgFs8Qgy3N8E","name":"Player Journals","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":0,"color":"#db6f0a","flags":{}}
 {"_id":"ao0ljE0O0vXqpIlI","name":"Parliment","type":"Actor","parent":"JysZW9UZRhR8AaDj","sorting":"a","sort":100000,"color":"","flags":{}}
 {"name":"Cults","type":"JournalEntry","parent":"sY1VtyaUgbzsIxmZ","sorting":"a","sort":0,"color":null,"flags":{},"_id":"buryL6mL3u1Aa357"}
 {"_id":"dWtEYHaxskkBERQr","name":"Clothing","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
