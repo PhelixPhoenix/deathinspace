@@ -36,6 +36,7 @@
 {"_id":"S5f6jPdOL1yXTaw7","name":"Spacecraft Disaster","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#8d1c54","flags":{}}
 {"_id":"TOufdIOMxcavKQbV","name":"History","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":0,"color":"#1da701","flags":{}}
 {"_id":"VMtmKMX2RWwJkF3o","name":"Factions","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":100000,"color":"#d3c717","flags":{}}
+{"name":"Addictive Substances","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{},"_id":"WSEv2HZUTDZje1t0"}
 {"_id":"WmmuPkcXfI2cYRaM","name":"Hub Modules - Confrontation","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"_id":"XMpX84hR8mPawZnU","name":"Weapons","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"name":"Travel","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#350174","flags":{},"_id":"Y5CcQFCCAdbYrQ6D"}
@@ -55,6 +56,7 @@
 {"_id":"krzaTeDvtqqEcmuP","name":"Cosmic Mutations","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"_id":"lIOUoYAGQMVMDwpD","name":"Salvage Jobs (frames)","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":300000,"color":null,"flags":{}}
 {"_id":"mLGhJee5TGHBFhlF","name":"Hub Modules - Tech","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
+{"name":"Uncommon Modified Weapons","type":"Item","parent":"XMpX84hR8mPawZnU","sorting":"a","sort":0,"color":"#a70101","flags":{},"_id":"mRD1j1pUYL9t0XkT"}
 {"_id":"mrHtemJaXvQfJeeI","name":"TOP SECRET","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":400000,"color":"#ff0000","flags":{}}
 {"_id":"nBsYjLnrMiBqQxqd","name":"Aurum Sector","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":700000,"color":null,"flags":{}}
 {"_id":"nCu3Odw6hOrds77y","name":"Contracts","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#077e1b","flags":{}}
@@ -71,3 +73,5 @@
 {"_id":"yTyyN7eiqwWC2ptS","name":"Hub Modules - General","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":900000,"flags":{}}
 {"_id":"z9JswSamBKsP5mDL","name":"Space Encounters","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#1e5cae","flags":{}}
+{"name":"Creature Weapons","type":"Item","parent":"XMpX84hR8mPawZnU","sorting":"a","sort":0,"color":"#017e1a","flags":{},"_id":"ZKVGRpEAZ2CZPyyw"}
+{"name":"Traps","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#56014f","flags":{},"_id":"bIMBLmuCD7hTLJAw"}
