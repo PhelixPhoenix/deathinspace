@@ -43,10 +43,12 @@
 {"name":"EngineRoom","type":"RollTable","parent":"opcKl5M7CdCfiNfR","sorting":"a","sort":0,"color":"#d0ae06","flags":{},"_id":"YZv61vCS0tAhv182"}
 {"_id":"YvIdxUfQ2o8ZYEE8","name":"Enemy Ships","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":100000,"color":null,"flags":{}}
 {"_id":"YyxEJ31VUjCqwx8W","name":"Sessions","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":0,"color":"#3cd341","flags":{}}
+{"name":"Creature Weapons","type":"Item","parent":"XMpX84hR8mPawZnU","sorting":"a","sort":0,"color":"#017e1a","flags":{},"_id":"ZKVGRpEAZ2CZPyyw"}
 {"_id":"ZTzIdpvllnb4E67z","name":"Armor","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"_id":"ZoLkJpSRmHtofj5S","name":"Sessions","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":700000,"color":"#3cd341","flags":{}}
 {"_id":"aLi8SgFs8Qgy3N8E","name":"Player Journals","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":0,"color":"#db6f0a","flags":{}}
 {"_id":"ao0ljE0O0vXqpIlI","name":"Parliment","type":"Actor","parent":"JysZW9UZRhR8AaDj","sorting":"a","sort":100000,"color":"","flags":{}}
+{"name":"Traps","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#56014f","flags":{},"_id":"bIMBLmuCD7hTLJAw"}
 {"name":"Cults","type":"JournalEntry","parent":"sY1VtyaUgbzsIxmZ","sorting":"a","sort":0,"color":null,"flags":{},"_id":"buryL6mL3u1Aa357"}
 {"_id":"dWtEYHaxskkBERQr","name":"Clothing","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"_id":"dufALId7aMp6g5eZ","name":"Useables and Services","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
@@ -73,5 +75,4 @@
 {"_id":"yTyyN7eiqwWC2ptS","name":"Hub Modules - General","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":900000,"flags":{}}
 {"_id":"z9JswSamBKsP5mDL","name":"Space Encounters","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#1e5cae","flags":{}}
-{"name":"Creature Weapons","type":"Item","parent":"XMpX84hR8mPawZnU","sorting":"a","sort":0,"color":"#017e1a","flags":{},"_id":"ZKVGRpEAZ2CZPyyw"}
-{"name":"Traps","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#56014f","flags":{},"_id":"bIMBLmuCD7hTLJAw"}
+{"name":"LOOT!","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#fbff00","flags":{},"_id":"ZXiq9Go9qBUWSoCr"}
