@@ -3,6 +3,7 @@
 {"_id":"3vMga1chrooLUWpk","name":"Salvage Jobs","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":300000,"color":"#079c92","flags":{}}
 {"_id":"4qEpSskmtzoaHmC5","name":"Repairs and Spare Parts","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"_id":"5zS9GQc1sPfP9Jeo","name":"Origins","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
+{"name":"Lepidoptera","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"7dz8LqxUZpL5Bf1g"}
 {"_id":"8LcXoQSC6uVXk7Xj","name":"Cheat Sheet","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":100000,"color":"#a80095","flags":{}}
 {"_id":"9jTJBC0ElVxnBVo9","name":"Ancient/Ring Cell","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":1000000,"color":null,"flags":{}}
 {"_id":"9tZWaozgDXbV9KKo","name":"Block Cell","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":1100000,"color":null,"flags":{}}
@@ -33,6 +34,7 @@
 {"_id":"NYd2Qtgl8RGHF4Jn","name":"ComputerCenter","type":"RollTable","parent":"opcKl5M7CdCfiNfR","sorting":"a","sort":100000,"color":"#d0ae06","flags":{}}
 {"_id":"NiJXF7rUuRVRtcbE","name":"Corporations","type":"JournalEntry","parent":"sY1VtyaUgbzsIxmZ","sorting":"a","sort":100000,"color":null,"flags":{}}
 {"_id":"Pd3nqiYHqlUu2bwN","name":"Player Characters","type":"Actor","parent":"MoV65ILWFs50hqi9","sorting":"a","sort":100000,"color":"#002eb8","flags":{}}
+{"name":"Salvage Jobs","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"R1TAcLQsy1KCejs9"}
 {"_id":"S5f6jPdOL1yXTaw7","name":"Spacecraft Disaster","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#8d1c54","flags":{}}
 {"_id":"TOufdIOMxcavKQbV","name":"History","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":0,"color":"#1da701","flags":{}}
 {"_id":"VMtmKMX2RWwJkF3o","name":"Factions","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":100000,"color":"#d3c717","flags":{}}
@@ -45,6 +47,7 @@
 {"_id":"YyxEJ31VUjCqwx8W","name":"Sessions","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":0,"color":"#3cd341","flags":{}}
 {"name":"Creature Weapons","type":"Item","parent":"XMpX84hR8mPawZnU","sorting":"a","sort":0,"color":"#017e1a","flags":{},"_id":"ZKVGRpEAZ2CZPyyw"}
 {"_id":"ZTzIdpvllnb4E67z","name":"Armor","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
+{"name":"LOOT!","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#fbff00","flags":{},"_id":"ZXiq9Go9qBUWSoCr"}
 {"_id":"ZoLkJpSRmHtofj5S","name":"Sessions","type":"JournalEntry","parent":"ngRxhE55m07pfJvk","sorting":"a","sort":700000,"color":"#3cd341","flags":{}}
 {"_id":"aLi8SgFs8Qgy3N8E","name":"Player Journals","type":"JournalEntry","parent":"9ugg6eVxe7Io2xlE","sorting":"a","sort":0,"color":"#db6f0a","flags":{}}
 {"_id":"ao0ljE0O0vXqpIlI","name":"Parliment","type":"Actor","parent":"JysZW9UZRhR8AaDj","sorting":"a","sort":100000,"color":"","flags":{}}
@@ -75,4 +78,3 @@
 {"_id":"yTyyN7eiqwWC2ptS","name":"Hub Modules - General","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#002eb8","flags":{}}
 {"_id":"yjo5DgfzCv6cTufA","name":"Starting NPCs","type":"Actor","parent":"hXZa07Pyjx9hldbi","sorting":"a","sort":900000,"flags":{}}
 {"_id":"z9JswSamBKsP5mDL","name":"Space Encounters","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#1e5cae","flags":{}}
-{"name":"LOOT!","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#fbff00","flags":{},"_id":"ZXiq9Go9qBUWSoCr"}
